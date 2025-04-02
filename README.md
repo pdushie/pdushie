@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer**, **Network Engineer
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Elysia JS](https://img.shields.io/badge/Elysia%20JS-2D3748?style=for-the-badge&logo=elysia&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 
 ### Databases
